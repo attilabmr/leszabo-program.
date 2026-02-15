@@ -1,2 +1,1 @@
-# leszabo-program.
-Profi leszabo program 
+Lapszabász program
