@@ -1,1 +1,0 @@
-Lapszabász program
